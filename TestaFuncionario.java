@@ -11,6 +11,6 @@ public class TestaFuncionario {
 
          System.out.println("Funcionario: "+f.getNome());
          System.out.println("Responsavel pelo cargo de: "+f.getCargo());
-         System.out.println("Faz jus ao salário de: "+f.getSalario()+"kkkkk Amém!");
+         System.out.println("Faz jus ao salário de: "+f.getSalario()+" kkkkk Amém!");
 }
 }
